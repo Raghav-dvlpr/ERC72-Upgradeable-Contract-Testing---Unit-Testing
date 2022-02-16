@@ -1,6 +1,6 @@
-# ERC 721 Upgradebale Contract Testing Unit Testing
+# ERC 721 Upgradeable Contract Testing Unit Testing
 
-- This Project is a Sample Template of ERC721 Upgradebale Contract and Created testcases for getting familiar in testing ERC721 Upgradebale Contracts.
+- This Project is a Sample Template of ERC721 Upgradeable Contract and Created testcases for getting familiar in testing ERC721 Upgradeable Contracts.
 - This Testing is done using `truffle test`
 - For each and every unit testing an new instance of the contract is created uing `this` keyword.
 
